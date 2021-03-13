@@ -2,13 +2,16 @@
 
 Por Miguel Raz (@miguelraz_ en twitter)
 
+1. El código que corrí está en `demo.jl`.
+2. El notebook que usé está en pdf en `xalapacode.pdf`, y lo pueden correr desde la terminal, dado que instalen los paquetes (pero para eso van a ver mi tutorial en youtube, cierto :D?)
+
 ### Notebook pechocho
 Se llama **Pluto.jl**.
 
 ### Ligas
 
 - [Descarga Julia](https://julialang.org/downloads/)
-- Por que Python siempre será lento https://youtu.be/6JcMuFgnA6U?t=1116
+- [Por que Python siempre será lento](https://youtu.be/6JcMuFgnA6U?t=1116)
 - [Codigo de Conducta](https://julialang.org/community/standards/)
 - [Problema de los 2 lenguajes](https://www.quora.com/What-is-the-2-language-problem-in-data-science?share=1)
 - [Demo de interoperabilidad Python + Julia <3](https://www.youtube.com/watch?v=PsjANO10KgM)
